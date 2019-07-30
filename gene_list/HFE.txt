@@ -1,0 +1,7 @@
+# EMQN best practice guidelines for the molecular genetic diagnosis of hereditary hemochromatosis (HH)
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4929861/
+HFE-001
+HFE2-001
+HAMP-001
+TFR2-201
+SLC40A1-001

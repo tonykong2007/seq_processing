@@ -1,0 +1,30 @@
+# Hypertrophic Cardiomyopathy (HCM) Panel
+# https://www.genedx.com/test-catalog/available-tests/hcm-panel/
+ACTC1
+ACTN2
+ALPK3
+CAV3
+CSRP3
+FHL1
+FLNC
+GAA
+GLA
+JPH2
+LAMP2
+MYBPC3
+MYH6
+MYH7
+MYL2
+MYL3
+MYOZ2
+PLN
+PRKAG2
+RAF1
+RIT1
+TCAP
+TNNC1
+TNNI3
+TNNT2
+TPM1
+TTR
+VCL

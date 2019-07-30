@@ -1,0 +1,23 @@
+# Sentis Hereditary Breast and Ovarian (21 genes) panel
+# https://www.bgi.com/global/molecular-genetics/sentis-oncology/hereditary-breast-and-ovarian-cancer-panel/
+BRCA1-001
+BRCA2-201
+CHEK2
+PALB2
+BRIP1
+TP53
+PTEN
+STK11
+CDH1
+ATM
+BARD1
+MLH1
+NBN
+MRE11A
+MSH2
+MSH6
+MUTYH
+PMS1
+PMS2
+RAD50
+RAD51C
